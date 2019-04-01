@@ -9,9 +9,8 @@
 namespace Hrtech\BootstrapForm;
 
 use Illuminate\Support\ServiceProvider;
-use Manvn\BootstrapForm\Builder\BTFormBuilder;
-use Manvn\BootstrapForm\Builder\BTMandatoryBuilder;
-use Manvn\BootstrapForm\Builder\BTRequiredFieldBuilder;
+use Hrtech\BootstrapForm\Builder\BTFormBuilder;
+use Hrtech\BootstrapForm\Builder\BTMandatoryBuilder;
 
 /**
  * Class BTFormServiceProvider

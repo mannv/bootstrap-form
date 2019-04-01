@@ -1,12 +1,12 @@
 {
-    "name": "mannv/bootstrap-form",
+    "name": "hr-tech/bootstrap-form",
     "type": "library",
     "require": {
         "laravelcollective/html": "^5.8"
     },
     "authors": [
         {
-            "name": "hr-tech",
+            "name": "mannv",
             "email": "anhmantk@gmail.com"
         }
     ],

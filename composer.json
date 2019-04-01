@@ -1,9 +1,10 @@
 {
-    "name": "hr-tech/bootstrap-form",
+    "name": "hrtech/bootstrap-form",
     "type": "library",
     "require": {
         "laravelcollective/html": "^5.8"
     },
+    "license": "MIT",
     "authors": [
         {
             "name": "mannv",
@@ -12,17 +13,17 @@
     ],
     "autoload": {
         "psr-4": {
-            "Manvn\\BootstrapForm\\": "src/"
+            "Hrtech\\BootstrapForm\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Manvn\\BootstrapForm\\BTFormServiceProvider"
+                "Hrtech\\BootstrapForm\\BTFormServiceProvider"
             ],
             "aliases": {
-                "BTForm": "Manvn\\BootstrapForm\\Facades\\FormFacade",
-                "BTMandatory": "Manvn\\BootstrapForm\\Facades\\BTMandatoryFacade"
+                "BTForm": "Hrtech\\BootstrapForm\\Facades\\FormFacade",
+                "BTMandatory": "Hrtech\\BootstrapForm\\Facades\\BTMandatoryFacade"
             }
         }
     }

@@ -6,7 +6,7 @@
  * Time: 11:55 PM
  */
 
-namespace Manvn\BootstrapForm;
+namespace Hrtech\BootstrapForm;
 
 use Illuminate\Support\ServiceProvider;
 use Manvn\BootstrapForm\Builder\BTFormBuilder;

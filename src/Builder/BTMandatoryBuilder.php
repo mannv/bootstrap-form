@@ -6,7 +6,7 @@
  * Time: 12:03 AM
  */
 
-namespace Manvn\BootstrapForm\Builder;
+namespace Hrtech\BootstrapForm\Builder;
 
 
 class BTMandatoryBuilder

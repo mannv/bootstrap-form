@@ -6,7 +6,7 @@
  * Time: 11:59 PM
  */
 
-namespace Manvn\BootstrapForm\Facades;
+namespace Hrtech\BootstrapForm\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
